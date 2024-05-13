@@ -1,11 +1,11 @@
 # EX.NO:3a             CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 
+## NAME: Suman G
+## REG.NO:212223240163
+
 ## AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
-
-## NAME: sumanguna
-## REG.NO:212222240046
 
 ## ALGORITHM:
 1. Import the necessary modules in python</br>
@@ -38,7 +38,7 @@ while True:
 ```
 ## OUPUT:
 ### Client
-![image](https://github.com/Yuvaranithulasingam/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/121418522/e28cbeca-aca7-45bd-9a14-9d0166954a0d)
+<img width="936" alt="Screenshot 2024-04-09 at 12 59 52 PM" src="https://github.com/aaron-h-2k5/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144250957/cea9bc6a-91e8-487d-80b1-f37b391bd93c">
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
